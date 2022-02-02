@@ -1,9 +1,6 @@
 import React from "react"
 import ReactDOM from "react-dom"
-//import TodoContainer from "./components-class/TodoContainer"
-//import TodoContainer from "./components-function/TodoContainer"
 import Table from "./components/Table"
-//import "./index.css"
 import "./table.css"
 
 //The following is data for "Table" (custom element)
